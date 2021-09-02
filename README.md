@@ -15,6 +15,6 @@ Each layout style can be found [here](https://github.com/DeluxeAlonso/UICollecti
 
 Feel free to open an issue or submit a pull request if you have any improvement or feedback.
 
-## Author
+## Inspiration
 
-Alonso Alvarez, alonso.alvarez.dev@gmail.com
+Alonso Alvarez
