@@ -1,0 +1,11 @@
+devices([
+  "iPhone 11 Pro"
+])
+
+languages([
+   "en-US"
+])
+
+clear_previous_screenshots(true)
+
+override_status_bar(true)
